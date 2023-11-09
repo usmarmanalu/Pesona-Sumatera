@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Pesona Sumatera</string>
+    <string name="nama_pesona">Nama Pesona</string>
+    <string name="description">Description</string>
+    <string name="alamat_wisata">Alamat</string>
+    <string name="nama_wisata">Nama Wisata</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="share">Share</string>
+    <string name="jenis">Jenis</string>
+    <string name="conten">conten</string>
+    <string name="content_alamat">content alamat</string>
+    <string name="usmarmnl99_email_com">usmarmnl99@email.com</string>
+    <string name="usmar_manalu">Usmar Manalu</string>
+
+    <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/commons/f/f8/AIR_TERJUN_SIPISO-PISO_%28SUMUT%29.jpg</item>
+        <item>https://1.bp.blogspot.com/-XfPJ-34tz8c/XjqYyE6N2II/AAAAAAAAJeU/odFhgWi8tgs_6DmXcuodUwCKdYNCCjvPACLcBGAsYHQ/s1600/pulau-karang.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/0/08/Mursalaisland.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/d/d9/Makam_Syeikh_Mahmud_Barus%2C_Papan_Tinggi_..JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/a/ae/Indonesia_-_Lake_Toba_%2826224127503%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/b/b1/Toba_zoom.jpg</item>
+        <item>https://thetapaktuanpost.com/wp-content/uploads/2021/07/t_5ec74493986bf_700.jpg</item>
+        <item>https://asset-2.tstatic.net/manado/foto/bank/images/pantai-kahona_20170801_105815.jpg</item>
+        <item>https://cdns.klimg.com/merdeka.com/i/w/news/2020/09/18/1221773/540x270/jadi-saksi-bisu-kekejaman-belanda-ini-3-fakta-menarik-batu-lobang-di-sumut.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/3/31/Tugu_KM_0_Sabang.png</item>
+    </string-array>
+
+
+    <string-array name="data_name">
+        <item>Air Terjun Sipisopiso</item>
+        <item>Pulau Karang </item>
+        <item>Pulau Mursala</item>
+        <item>Makam Papan Tenggi</item>
+        <item>Danau Toba</item>
+        <item>Pulau Samosir</item>
+        <item>Tapak Tuan, Aceh Selatan</item>
+        <item>Pantai Kahona</item>
+        <item>Batu Lubang, Sitahuis</item>
+        <item>Kota Sabang</item>
+    </string-array>
+
+    <string-array name="data_wisata">
+        <item>Wisata Alam</item>
+        <item>Wisata Alam</item>
+        <item>Wisata Alam</item>
+        <item>Wisata Religi</item>
+        <item>Wisata Alam</item>
+        <item>Wisata Alam</item>
+        <item>Wisata Religi</item>
+        <item>Wisata Alam</item>
+        <item>Wisata Alam</item>
+        <item>Wisata Alam</item>
+    </string-array>
+
+
+    <string-array name="data_description">
+        <item>Nama Sipisopiso diambil dari nama sebuah Gunung yang berada tepat di timur laut Air Terjun Sipisopiso. Gunung yang juga disebut Gunung Sipisopiso ini memiliki ketinggian sekitar 1.860 meter di atas permukaan air laut. Air Terjun Sipisopiso berada di bibir kaldera raksasa Danau Toba serta terbentuk pada aliran Sungai Pajanabolon yang merupakan salah satu sungai menyuplai air ke Danau Toba. Air Terjun Sipisopiso berada di ketinggian sekitar 1.300 meter di atas permukaan air laut.</item>
+        <item>Pulau Karang merupakan salah satu pulau yang berada di Samudra Hindia. Pulau ini berada di sisi barat Pulau Sumatra. Secara administrasi, Pulau Karang masuk ke dalam wilayah Kecamatan Barus, Kabupaten Tapanuli Tengah, Provinsi Sumatra Utara, Indonesia. Berdasarkan hasil survey toponim pulau tahun 2006, pulau ini bernama Pulau Karang. Dari hasil verifikasi Tim Nasional Pembakuan Nama Rupabumi tahun 2007, Pulau ini tidak mengalami perubahan nama.[1] Namun, tidak ditemukan sumber yang menjelaskan kenapa pulau ini diberi nama Pulau Karang.</item>
+        <item>Pulau Mursala dikenal sebagai pulau yang menyimpan keindahan alam. Meski demikian, penebangan hutan ilegal sering kali menimbulkan dampak buruk pada keanekaragaman hayati di pulau tersebut. Pulau ini dikenal dari air terjun yang dapat ditemukan di sisi barat pulau. Terdapat juga pulau kecil yang berada di sebelah timur Pulau Mursala, yang dikenal sebagai Pulau Putri. Pulau Mursala juga dikenal sebagai habitat satu-satunya bagi spesies tumbuhan Dipterocarpus cinereus, yang dianggap telah punah sampai pada tahun 2010-an. Beberapa sumber menyatakan bahwa Pulau Mursala, khususnya bagian air terjunnya, merupakan salah satu lokasi yang digunakan sebagai latar dalam film King Kong karya Peter Jackson.[4] Pulau ini juga menjadi latar cerita untuk film tahun 2013, Mursala.</item>
+        <item>Makam Papan Tinggi adalah komplek pemakaman tua Sejarah Islam yang terletak di atas bukit tepatnya di daerah Desa Pananggahan, Kecamatan Barus Utara, Kabupaten Tapanuli Tengah, Provinsi Sumatra Utara. Adapun makam yang terdapat di Makam Papan Tenggi ini berjumlah 5 makam, satu diantaranya makam yang panjangnya sekitar 7 meter, dan ukuran tinggi batu nissannya yakni sekitar 1,5 meter, sementara 4 makan lainnya bersampingan dengan makam utama, yakni panjangnya sekitar 1,5 meter, nisannya terbuat dari batu yang ditegakkan tanpa ada tanda sama sekali.</item>
+        <item>Danau Toba adalah danau alami berukuran besar di Indonesia yang berada di kaldera gunung supervulkan. Danau ini memiliki panjang 100 kilometer (62 mil), lebar 30 kilometer (19 mi), dan kedalaman 508 meter (1.667 ft). Danau ini terletak di tengah pulau Sumatra bagian utara dengan ketinggian permukaan sekitar 900 meter (2.953 ft). Danau ini membentang dari 2.88°N 98.52°E sampai 2.35°N 99.1°E. Danau Toba merupakan adalah danau terbesar di Indonesia sekaligus danau vulkanik terbesar di dunia.[1]</item>
+        <item>Samosir adalah sebuah pulau vulkanik yang terletak di tengah Danau Toba di Provinsi Sumatra Utara. Sebuah pulau dalam pulau dengan ketinggian 1.000 meter di atas permukaan laut menjadikan pulau ini menjadi sebuah pulau yang menarik perhatian para turis. Tuktuk adalah pusat konsentrasi turis di Pulau Samosir. Dari Parapat, Tuktuk dapat dihubungkan dengan feri penyeberangan. Selain perhubungan air, Pulau Samosir juga dapat dicapai lewat jalan darat melalui Pangururan yang menjadi tempat di mana Pulau Samosir dan Pulau Sumatra terhubung. Pulau Samosir sendiri terletak dalam wilayah Kabupaten Samosir yang baru dimekarkan pada tahun 2003 dari bekas Kabupaten Toba Samosir. Di pulau ini juga terdapat beberapa danau kecil, dua diantaranya dikenal sebagai daerah wisata yaitu Danau Sidihoni dan Danau Aek Natonang yang mendapat julukan "danau di atas danau".</item>
+        <item>Tapak Tuan (juga ditulis Tapaktuan) adalah ibu kota dan pusat pemerintahan Kabupaten Aceh Selatan, Aceh, Indonesia. Tapaktuan merupakan wilayah kota setingkat kecamatan yang juga dikenal dengan sebutan Kota Naga. Dalam kesehariannya, masyarakat di sini yang berbahasa Jamee sering menyebut kota ini dengan sebutan "Taluak" (Teluk).[2] Kota ini mempunyai makanan khas yaitu kue pala. Sebelum Perang Dunia I, perekonomian Tapak Tuan ditunjang oleh perkebunan lada. Kemudian, pala dan nilam menjadi hasil perkebunan kota ini.[3]</item>
+        <item>Pantai Kahona merupakan teluk kecil yang memiliki pantai sepanjang lima kilometer, mulai dari Kualo Simamatco sampai dengan Kualo Sipaubat. Dengan panorama pasir putih halus dan pantai yang memukau. Pantai Kahona ini terletak di Desa Lobu Tua, Kecamatan Andan Dewi, Barus, sekitar 9 kilometer dari pusat Kecamatan Kota Barus, dan hanya 5 kilometer saja dari pusat Kecamatan Andan Dewi. Sedangkan dari pusat pemerintahan kabupaten di Sibolga sekitar tujuh puluh kilometer. Kurang lebih dua jam perjalanan darat. Artikel ini telah tayang di SerambiNews.com dengan judul Pesona Pantai Kahona Barus, https://aceh.tribunnews.com/2019/09/02/pesona-pantai-kahona-barus.</item>
+        <item>Sitahuis adalah sebuah kecamatan yang berada di kabupaten Tapanuli Tengah, provinsi Sumatera Utara, Indonesia. Sitahuis merupakan daerah pengunungan dan sepanjang jalan di kecamatan Sitahuis memiliki banyak tikungan berganda. Sitahuis juga memiliki beberapa tempat wisata seperti bukit Anugrah, batu lubang, jalan Rampa Poriaha, dan Aek Raisan. Ibu kota kecamatan ini berada di kelurahan Nauli, dan kecamatan ini juga berbatasan dengan kota Sibolga.</item>
+        <item>Sabang adalah salah satu kota di Aceh, Indonesia.[1][6] Kota ini berupa kepulauan di seberang utara Pulau Sumatra, dengan Pulau Weh sebagai pulau terbesar. Kota Sabang merupakan zona ekonomi bebas Indonesia,[7] ia sering disebut sebagai titik paling utara dan barat Indonesia, tepatnya di Pulau Rondo.[8] Pada tahun 2021 jumlah penduduk kota Sabang sebanyak 42.559 jiwa, dengan kepadatan 278 jiwa/km².[2] Sabang merupakan "titik nol" untuk wilayah barat Indonesia.[9]</item>
+    </string-array>
+
+    <string-array name="data_address">
+        <item>Desa Tongging, Merek,Karo, Sumatra Utara</item>
+        <item> Kecamatan Barus, Tapanuli Tengah,Sumatra Utara</item>
+        <item>Kota Sibolga, Tapanuli Tengah, Sumatra Utara</item>
+        <item>Barus Utara, Tapanuli Tengah, Sumatra Utara</item>
+        <item>Sumatera Utara, Indonesia</item>
+        <item>Samosir, Sumatera Utara, Indonesia</item>
+        <item>Kabupaten Aceh Selatan, Aceh, Indonesia</item>
+        <item>Andam Dewi, Tapanuli Tengah, Sumatera Utara</item>
+        <item>Tapanuli Tengah, Sumatera Utara</item>
+        <item>Seberang utara Pulau Sumatra</item>
+    </string-array>
+
+
+</resources>
